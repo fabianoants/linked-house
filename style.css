@@ -8,6 +8,19 @@ body{
     color: #000000;
 }
 
+
+.descricao{
+    font-size: 0.8em;
+    width: 12.6em;
+    height: 5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    border: 0.3em solid #000000
+}
+
 ul {
     list-style: none;
     padding-left:0;
@@ -21,7 +34,7 @@ li{
     margin-top: 0.1em;
     margin-bottom: 0.1em;
     text-align: center;
-    color: #000000;S
+    color: #000000;
     background-color: #ffffff;
 }
 
@@ -39,16 +52,4 @@ li > a{
 li:hover > a{
     color: #ffffff;
 
-}
-
-.descricao{
-    font-size: 0.8em;
-    width: 12.6em;
-    height: 5em;
-    margin-top: 0;
-    margin-bottom: 0;
-    text-align: center;
-    color: #ffffff;
-    background-color: #000000;
-    border: 0.3em solid #000000
 }
