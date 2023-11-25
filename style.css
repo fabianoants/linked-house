@@ -33,14 +33,14 @@ ul {
 }
 
 li{
-    border: 0.3em solid #000000;
-    border-radius: 0.5em;
     width: 9.9em;
     height: 1.5em;
     margin: 0.1em auto;
     text-align: center;
     color: #000000;
     background-color: #ffffff;
+    border: 0.3em solid #000000;
+    border-radius: 0.5em;
 }
 
 li:hover{
@@ -56,5 +56,4 @@ li > a{
 
 li:hover > a{
     color: #ffffff;
-
 }
