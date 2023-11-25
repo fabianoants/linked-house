@@ -5,13 +5,13 @@
 body{
     font-family: 'Concert One', sans-serif;
     font-size: 1.5em;
-    color: #000000;
 }
 
 header{
     display: flex;
     justify-content: center;
 }
+
 
 
 .descricao{
@@ -22,7 +22,8 @@ header{
     text-align: center;
     color: #ffffff;
     background-color: #000000;
-    border: 0.3em solid #000000
+    border: 0.3em solid #000000;
+    border-radius: 0.5em;
 }
 
 ul {
@@ -33,6 +34,7 @@ ul {
 
 li{
     border: 0.3em solid #000000;
+    border-radius: 0.5em;
     width: 9.9em;
     height: 1.5em;
     margin: 0.1em auto;
